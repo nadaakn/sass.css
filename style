@@ -1,0 +1,28 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  color: black;
+}
+
+nav ul {
+  margin: 100;
+  padding: 50;
+  list-style: decimal;
+}
+
+nav li {
+  display: grid;
+}
+
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: square;
+  margin: 10;
+  padding: 20;
+}
+
+/*# sourceMappingURL=style.map */
